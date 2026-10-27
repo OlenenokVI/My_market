@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="магазинчик/магазинчик.vcxproj" Id="0510b88a-aefa-43cc-b573-cd46287c60a8" />
+</Solution>
