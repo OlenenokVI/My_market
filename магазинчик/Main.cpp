@@ -15,7 +15,7 @@ int Pokypka(std::string product, int count, int price) {
 	if (foodIndex >= size) {
 		std::cout << "корзина переполнена!\n";
 		return 0;
-	}
+	} 
 
 	if (product == "Боярышник") {
 		for (int i = 0; i < foodIndex; i++) {
